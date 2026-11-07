@@ -18,7 +18,7 @@ The network contains:
 
 ### Network Diagram
 
-![EIGRP Network Topology](./topology.png)
+![EIGRP Network Topology](./screenShot/Screenshot%202026-11-07%20142107.png)
 
 ## 🌐 IP Addressing Scheme
 
